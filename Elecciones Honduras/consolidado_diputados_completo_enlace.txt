@@ -1,0 +1,1 @@
+http://ide.dataintelligence-group.com/tabla_csv/consolidado_diputados_completo.csv
